@@ -1,1 +1,2 @@
-#the new feature
+def login(username):
+    print(f"Logging in user: {username}")
